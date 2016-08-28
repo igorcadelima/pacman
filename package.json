@@ -1,0 +1,35 @@
+{
+  "name": "PacMan",
+  "version": "1.0.0",
+  "description": "This is a game written with ECMAScript 6 based on the classic PacMan.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcadelima/pacman.git"
+  },
+  "keywords": [
+    "pacman",
+    "artificial",
+    "intelligence",
+    "ecmascript"
+  ],
+  "author": "Igor Conrado Alves de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorcadelima/pacman/issues"
+  },
+  "homepage": "https://github.com/igorcadelima/pacman#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "browser-sync": "^2.14.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
